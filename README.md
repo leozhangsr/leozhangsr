@@ -1,6 +1,6 @@
 About me
 =
-- 👋 Hi, I’m @leozhang,now I'm a bigdata architect, on my way to data scientist.
+- 👋 Hi, I’m @leozhang,now I'm a bigdata engineer/architect, on my way to become a data scientist.
 - 👀 I’m interested in knowledge and technique about data scientist.
 - 📫 Reach me by email: johnson5211.work@gmail.com
 <br/>
