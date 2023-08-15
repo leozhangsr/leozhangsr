@@ -1,11 +1,12 @@
 About me
 =
 - 👋 Hi, I’m @leozhang,now I'm a bigdata engineer/architect, on my way to become a data scientist.
-- 👀 I’m interested in knowledge and technique about data scientist.
+- 👀 I’m interested in knowledge and technique，not only about data scientist.
 - 📫 Reach me by email: johnson5211.work@gmail.com
 <br/>
 
 - 👋 Hi, 我是LeoZhang，大数据架构师一枚，成长中的数据科学家。
+- 我以知识和/及/与/and/&、技术感兴趣。
 - 👀 用知识创造价值，以应用驱动技术。
 - 📫 联系方式：johnson5211.work@gmail.com
 
